@@ -1,0 +1,5 @@
+BUY, 5
+SELL, 3
+BUY, 16
+BUY, 4
+SELL, 2
