@@ -1,0 +1,4 @@
+BUY, 8
+BUY, 10
+BUY, 7
+SELL, 9
