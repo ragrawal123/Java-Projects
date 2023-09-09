@@ -1,0 +1,21 @@
+Games Completed: 7
+Game 1
+- Solution: union
+- Guesses: break,float,short,throw,union
+- Solved: Yes
+Game 2
+- Solution: class
+- Guesses: float,class
+- Solved: Yes
+Game 3
+- Solution: super
+- Guesses: break,super
+- Solved: Yes
+Game 6
+- Solution: union
+- Guesses: catch
+- Solved: No
+Game 7
+- Solution: class
+- Guesses: break,union,marker,breat,apple,lazys
+- Solved: No
